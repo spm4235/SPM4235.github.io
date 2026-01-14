@@ -1,8 +1,9 @@
 {
     "servers": [
         {
-            "name": "[spm4235]",
-            "address": "[https://anisette-v3-server-rodh.onrender.com]"
+            "name": "spm4235",
+            "address": "https://anisette-v3-server-rodh.onrender.com"
         }
     ]
 }
+
